@@ -1,5 +1,3 @@
-import Welcome from '@/markdown/welcome.mdx'
- 
 export default function Page() {
-  return <Welcome />
+  return <h1>Hello Next.js!</h1>
 }

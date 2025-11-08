@@ -1,5 +1,12 @@
 import Welcome from '@/markdown/welcome.mdx'
  
 export default function Page() {
-  return <Welcome />
+  return (
+  <>
+    <h1>MDX Page</h1>
+    <Welcome />
+    <Welcome />
+  </>
+
+  );
 }

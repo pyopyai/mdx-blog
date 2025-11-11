@@ -37,7 +37,7 @@ export default function Home() {
               href={"/blog/whatIsThis"}
               className="font-medium text-zinc-950 dark:text-zinc-50"
             >
-              これはなに
+              これはなに？
             </a>{" "}
             ぺーじへ。
           </p>
